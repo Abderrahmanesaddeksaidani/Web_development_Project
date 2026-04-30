@@ -13,6 +13,6 @@ A PHP & MySQL based library management system for managing books and loans.
 3.  Configure `db.php` with your database credentials.
 4.  Open `localhost/your_folder_name` in your browser.
 ## Team Members 
-1.  Saidani Abderrahmane Saddek
+1.  Saidani Abderrahmane Saddek:  https://github.com/Abderrahmanesaddeksaidani
 2.  Abada Islam: https://github.com/islamabada
 3.  Amara Akram: https://github.com/akramamara2-cmyk
