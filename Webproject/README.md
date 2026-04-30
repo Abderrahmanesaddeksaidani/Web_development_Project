@@ -12,3 +12,7 @@ A PHP & MySQL based library management system for managing books and loans.
 2.  Import the `library.sql` file into your phpMyAdmin.
 3.  Configure `db.php` with your database credentials.
 4.  Open `localhost/your_folder_name` in your browser.
+## Team Members 
+1.  Saidani Abderrahmane Saddek
+2.  Abada Islam
+3.  Amara Akram
