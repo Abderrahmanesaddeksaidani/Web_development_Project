@@ -15,6 +15,4 @@ A PHP & MySQL based library management system for managing books and loans.
 ## Team Members 
 1.  Saidani Abderrahmane Saddek
 2.  Abada Islam: https://github.com/islamabada
-3.  Amara Akram: https://github.com/akramamara2-c
-
-myk
+3.  Amara Akram: https://github.com/akramamara2-cmyk
